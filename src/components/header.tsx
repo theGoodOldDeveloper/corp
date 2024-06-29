@@ -6,7 +6,7 @@ export default function Header() {
         <Link href="/" className="font-bold text-3xl">
           Home
         </Link>
-        <div className="space-x-4 tex-xl">
+        <div className="space-x-4 text-xl">
           <Link href="/performance">Performance</Link>
           <Link href="/reliability">Reliability</Link>
           <Link href="/scale">Scale</Link>
